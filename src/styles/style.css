@@ -1,0 +1,28 @@
+container {
+    margin: auto;
+    width: 50%;
+    display: flex;
+    flex-flow: column;
+}
+
+.schema-wrapper {
+    margin-bottom: 50px;
+}
+
+.input {
+    width: 400px;
+    height: 200px;
+}
+
+.result.hide {
+    display: none;
+}
+
+.result.show {
+    display: block;
+}
+
+textarea {
+    width: 400px;
+    height: 200px;
+}
